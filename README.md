@@ -3,25 +3,18 @@
 </h1>
 
 <h3 align="center"> A Data Engineer | Data Analysis | Python Programer</h3>
-
-<br/>
-
 <div align="center">
  
 👨‍💻 All of my projects are available at [here](https://github.com/MidoriyaHero?tab=repositories)
 
-📫 How to reach me **work.trungtin@gmail.com**
-
  </div>
- 
-<div align="center"> 
-<h3 >Connect with me:</h3>
-<p >
-<a href="https://linkedin.com/in/trung-tín-13b706210" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="trung-tín-13b706210" height="30" width="40" /></a>
-<a href="https://fb.com/trungtin0105" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="trungtin0105" height="30" width="40" /></a>
-<a href="https://dev.to/midoriyahero" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="midoriyahero" height="30" width="40" /></a>
-</p>
 
+<h2 align="center">⚡ Stats ⚡</h2>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=MidoriyaHero&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=MidoriyaHero&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=MidoriyaHero&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
  <hr/>
@@ -32,17 +25,20 @@
 <br/>
 <hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=MidoriyaHero&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=MidoriyaHero&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+<div align="center"> 
+    <h3 >Connect with me:</h3>
+    <div>
+        📫 work.trungtin@gmail.com
+   </div>
+    <div>
+        <h3>OR</h3>
+    </div>
+<p >
+<a href="https://linkedin.com/in/trung-tín-13b706210" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="trung-tín-13b706210" height="30" width="40" /></a>
+<a href="https://fb.com/trungtin0105" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="trungtin0105" height="30" width="40" /></a>
+<a href="https://dev.to/midoriyahero" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="midoriyahero" height="30" width="40" /></a>
+</p>
+
 </div>
 
-<br/><br/>
-
 <hr/>
-
-<br/>
