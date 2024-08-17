@@ -27,9 +27,9 @@
 
 <div align="center"> 
     <h3 >Connect with me:</h3>
-    <div style="font-size:17px;">
+    <h4 >
         📫 work.trungtin@gmail.com
-   </div>
+   <h4>
     <div>
         <h3>OR</h3>
     </div>
