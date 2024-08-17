@@ -27,7 +27,7 @@
 
 <div align="center"> 
     <h3 >Connect with me:</h3>
-    <div>
+    <div style="font-size:17px;">
         📫 work.trungtin@gmail.com
    </div>
     <div>
