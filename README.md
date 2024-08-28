@@ -13,7 +13,7 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <div align=center>
-  <img width=500 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=MidoriyaHero&count_private=true&theme=tokyonight&border_radius=10" alt="streak stats"/>
+  <img width=450 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=MidoriyaHero&count_private=true&theme=tokyonight&border_radius=10" alt="streak stats"/>
   <br/>
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=MidoriyaHero&hide=HTML&langs_count=8&layout=compact&theme=tokyonight&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
@@ -35,9 +35,9 @@
         <h3>OR</h3>
     </div>
 <p >
-<a href="https://linkedin.com/in/trung-tín-13b706210" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="trung-tín-13b706210" height="30" width="40" /></a>
-<a href="https://fb.com/trungtin0105" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="trungtin0105" height="30" width="40" /></a>
-<a href="https://dev.to/midoriyahero" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="midoriyahero" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/trung-tín-13b706210" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="trung-tín-13b706210" height="40" width="50" /></a>
+<a href="https://fb.com/trungtin0105" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="trungtin0105" height="40" width="50" /></a>
+<a href="https://dev.to/midoriyahero" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="midoriyahero" height="40" width="50" /></a>
 </p>
 
 </div>
