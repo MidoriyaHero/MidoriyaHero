@@ -27,10 +27,10 @@
 <hr/>
 
 <div align="center"> 
-    <h3 >Connect with me:</h3>
-    <h4 >
+    <h2 >Connect with me:</h2>
+    <h3 >
         📫 work.trungtin@gmail.com
-   <h4>
+    </h3>
     <div>
         <h3>OR</h3>
     </div>
