@@ -37,7 +37,6 @@
 <p >
 <a href="https://linkedin.com/in/trung-tín-13b706210" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="trung-tín-13b706210" height="40" width="50" /></a>
 <a href="https://fb.com/trungtin0105" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="trungtin0105" height="40" width="50" /></a>
-<a href="https://dev.to/midoriyahero" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="midoriyahero" height="40" width="50" /></a>
 </p>
 
 </div>
