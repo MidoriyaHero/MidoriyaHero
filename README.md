@@ -23,7 +23,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <p align="center"> 
-    <a href="https://www.langchain.com/" target="_blank" rel="noreferrer"> <img src="https://lancedb.github.io/lancedb/assets/langchain.png" alt="Langchain" width="40" height="40"/> </a>
+    <a href="https://www.langchain.com/" target="_blank" rel="noreferrer"> <img src="https://api.nuget.org/v3-flatcontainer/langchain/0.15.2/icon" alt="Langchain" width="40" height="40"/> </a>
     <a href="https://huggingface.co/" target="_blank" rel="noreferrer"> <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="HuggingFace" width="40" height="40"/> </a>
     <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" alt="FastAPI" width="40" height="40"/>  </a>
     <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> 
