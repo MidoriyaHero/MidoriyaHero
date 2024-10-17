@@ -10,8 +10,6 @@
     </h3>
 
  </div>
-
-
 <h2 align="center">⚡ Stats ⚡</h2>
 <div align=center>
   <img width=450 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=MidoriyaHero&count_private=true&theme=tokyonight&border_radius=10" alt="streak stats"/>
