@@ -2,6 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi!+👋;+I'm+Trung+Tin!;" />
 </h1>
 
+
 <h3 align="center">Data Engineer | AI Engineer | Prompt Engineer | Data Analysis </h3>
 <div align="center">
  
