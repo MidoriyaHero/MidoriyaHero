@@ -3,7 +3,7 @@
 </h1>
 
 
-<h3 align="center"> 📚 Learner 💻 </h3>
+<h2 align="center"> 📚 Learner 💻 </h2>
 <div align="center">
  
 <h3>
