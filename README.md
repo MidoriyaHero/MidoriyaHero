@@ -16,7 +16,22 @@
   <br/>
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=MidoriyaHero&hide=HTML&langs_count=8&layout=compact&theme=tokyonight&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
+<hr/>
 
+<div align="center"> 
+    <h2 >Connect with me:</h2>
+    <h3 >
+        📫 work.trungtin@gmail.com
+    </h3>
+    <div>
+        <h3>OR</h3>
+    </div>
+<p >
+<a href="https://linkedin.com/in/trung-tín-13b706210" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="trung-tín-13b706210" height="40" width="50" /></a>
+<a href="https://fb.com/trungtin0105" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="trungtin0105" height="40" width="50" /></a>
+</p>
+
+</div>
  <hr/>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
@@ -43,21 +58,6 @@
     <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
 </p>
 <br/>
-<hr/>
 
-<div align="center"> 
-    <h2 >Connect with me:</h2>
-    <h3 >
-        📫 work.trungtin@gmail.com
-    </h3>
-    <div>
-        <h3>OR</h3>
-    </div>
-<p >
-<a href="https://linkedin.com/in/trung-tín-13b706210" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="trung-tín-13b706210" height="40" width="50" /></a>
-<a href="https://fb.com/trungtin0105" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="trungtin0105" height="40" width="50" /></a>
-</p>
-
-</div>
 
 <hr/>
