@@ -20,7 +20,9 @@
 <div align="center"> 
     <h2 >Connect with me:</h2>
     <h3 >
-        📫 work.trungtin@gmail.com
+        <p>
+        📫 <a href='mailto: work.trungtin@gmail.com'>work.trungtin@gmail.com</a>
+        </p>
     </h3>
     <div>
         <h3>OR</h3>
