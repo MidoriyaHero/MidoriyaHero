@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=5000&lines=I'm+Trung-Tin+Bui!;+''So+Good,+They+Can't+Ignore+You!''" />
 </h1>
 
-<h2 align="center"> 📚 Learner 💻 </h2>
+<h2 align="center"> 📚A Learner 💻 </h2>
 <div align="center">
  
 <h3>
